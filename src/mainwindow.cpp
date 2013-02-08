@@ -218,6 +218,8 @@ void MainWindow::RobotTurnSearch() {
 
 void MainWindow::StartCapture() {
 
+//    camCapture->AddSector("left-top", cvPoint(), cvSize());
+
 //    camCapture->CameraCapture();
 }
 

@@ -46,7 +46,7 @@ public:
     bool AddSector(string name, CvPoint coordinate, CvSize size);
     bool DeleteSector(string name);
 
-    map<string, IplImage*> GetCameraImage( );
+    map<string, IplImage*> GetCameraImage();
 
 
     ImageCapture(int camId = 0);

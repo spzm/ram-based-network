@@ -150,7 +150,7 @@ imageprocessing::ImageCapture::sectormap imageprocessing::ImageCapture::GetCamer
             return temp;
         }
 
-         for (sectorsIterator iter = sectors.begin(); iter != sectors.end(); ++iter) {
+        for (sectorsIterator iter = sectors.begin(); iter != sectors.end(); ++iter) {
             // Set ROI for all sectors
             cvSetImageROI(monochromeImage, sectorSizes[iter->first]);
             // Save part of the sector image
