@@ -1,0 +1,76 @@
+License of ram-based-network project
+-------
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License version 2 as
+published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+A copy of the license is included with the sourcecode in the file
+'COPYING". Copying and redistribution is permitted only under the
+terms of the license.
+
+
+This software use:
+
+1. QT library
+-------------
+
+Nokia Qt LGPL Exception version 1.1
+
+As an additional permission to the GNU Lesser General Public License version
+2.1, the object code form of a "work that uses the Library" may incorporate
+material from a header file that is part of the Library.  You may distribute
+such object code under terms of your choice, provided that:
+    (i)   the header files of the Library have not been modified; and 
+    (ii)  the incorporated material is limited to numerical parameters, data
+          structure layouts, accessors, macros, inline functions and
+          templates; and
+    (iii) you comply with the terms of Section 6 of the GNU Lesser General
+          Public License version 2.1.
+
+Moreover, you may apply this exception to a modified version of the Library,
+provided that such modification does not involve copying material from the
+Library into the modified Library's header files unless such material is
+limited to (i) numerical parameters; (ii) data structure layouts;
+(iii) accessors; and (iv) small macros, templates and inline functions of
+five lines or less in length.
+
+Furthermore, you are not required to apply this additional permission to a
+modified version of the Library.
+
+2. OpenCV Library
+-----------------
+                          License Agreement
+               For Open Source Computer Vision Library
+
+Copyright (C) 2000-2008, Intel Corporation, all rights reserved.
+Copyright (C) 2008-2010, Willow Garage Inc., all rights reserved.
+Third party copyrights are property of their respective owners.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  * Redistribution's [sic] of source code must retain the above copyright notice,
+    this list of conditions and the following disclaimer.
+
+  * Redistribution's [sic] in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+  * The name of the copyright holders may not be used to endorse or promote products
+    derived from this software without specific prior written permission.
+
+This software is provided by the copyright holders and contributors "as is" and
+any express or implied warranties, including, but not limited to, the implied
+warranties of merchantability and fitness for a particular purpose are disclaimed.
+In no event shall the Intel Corporation or contributors be liable for any direct,
+indirect, incidental, special, exemplary, or consequential damages
+(including, but not limited to, procurement of substitute goods or services;
+loss of use, data, or profits; or business interruption) however caused
+and on any theory of liability, whether in contract, strict liability,
+or tort (including negligence or otherwise) arising in any way out of
+the use of this software, even if advised of the possibility of such damage.
