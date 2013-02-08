@@ -1,0 +1,11 @@
+# Compiled source #
+###################
+*.o
+Makefile
+moc_mainwindow.cpp
+RAMNetwork.pro
+RAMNetwork.pro.user
+RAMNetwork
+
+#  Build Folders  #
+###################
